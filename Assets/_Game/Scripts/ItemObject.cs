@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ItemObject : MonoBehaviour
-{
+{/*
     public InventoryItemData referenceItem;
 
     public void OnHandlePickupItem()
@@ -42,5 +42,5 @@ public class ItemObject : MonoBehaviour
     public void OnTriggerExit(Collider collider)
     {
         useLookAt = false;
-    }
+    }*/
 }
