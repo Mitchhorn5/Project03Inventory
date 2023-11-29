@@ -8,14 +8,9 @@ public class InventoryPopUp : MonoBehaviour
 
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.I))
+        if (Input.GetKeyDown(KeyCode.I))
         {
-            
+
         }
     }
-
-   //public void InventoryMenu()
-   // {
-
-   // }
 }
